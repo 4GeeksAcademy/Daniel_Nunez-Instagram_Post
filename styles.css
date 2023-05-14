@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+.post {
+    background-color: white;
+    width: 300px;
+    margin: auto;
+}
+.post img{
+    width: 100%;
+}
+.bars{
+    display: inline-block;
+    width: 5%;
+}
+.Name-Icon{
+    display: inline-block;
+    width: 90%;
+}
+.bookmark{
+    display: inline-block;
+    width: 5%;
+}
+.Intro{
+    display: inline-block;
+    width: 90%;
+}
